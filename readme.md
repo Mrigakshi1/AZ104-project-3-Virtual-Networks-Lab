@@ -92,6 +92,7 @@ A second Virtual Network was created to simulate a backend or database environme
 ### Screenshot
 
 ![VNet DB1](screenshots/03-vnet-db.png)
+![subnet-db1](screenshots/03-subnet-db1.png)
 
 ### Key Learning
 
