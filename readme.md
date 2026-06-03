@@ -58,9 +58,9 @@ A Virtual Network was created to host application resources and virtual machines
 
 | Setting       | Value        |
 | ------------- | ------------ |
-| VNet Name     | vnet-app     |
+| VNet Name     | vnet-app1     |
 | Address Space | 10.10.0.0/16 |
-| Subnet Name   | subnet-app   |
+| Subnet Name   | subnet-app1  |
 | Subnet Range  | 10.10.1.0/24 |
 
 ### Screenshot
