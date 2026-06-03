@@ -9,7 +9,7 @@ This lab demonstrates how to create and manage Azure networking resources in Mic
 
 ## Architecture
 
-```text
+
 Resource Group
      →
 VNet-App (10.10.0.0/16)
@@ -29,7 +29,7 @@ VM-DB-01
 VNet Peering
      ↔
 Private Communication
-```
+
 
 ---
 
