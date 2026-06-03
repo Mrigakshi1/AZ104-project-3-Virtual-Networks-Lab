@@ -84,14 +84,14 @@ A second Virtual Network was created to simulate a backend or database environme
 
 | Setting       | Value        |
 | ------------- | ------------ |
-| VNet Name     | vnet-db      |
+| VNet Name     | vnet-db1      |
 | Address Space | 10.20.0.0/16 |
-| Subnet Name   | subnet-db    |
+| Subnet Name   | subnet-db1    |
 | Subnet Range  | 10.20.1.0/24 |
 
 ### Screenshot
 
-![VNet DB](screenshots/03-vnet-db.png)
+![VNet DB1](screenshots/03-vnet-db.png)
 
 ### Key Learning
 
