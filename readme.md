@@ -65,7 +65,8 @@ A Virtual Network was created to host application resources and virtual machines
 
 ### Screenshot
 
-![VNet App](screenshots/02-vnet-app.png)
+![VNet App1](screenshots/02-vnet-app.png)
+![subnet-app1](screenshots/02-subnet-app1.png)
 
 ### Key Learning
 
