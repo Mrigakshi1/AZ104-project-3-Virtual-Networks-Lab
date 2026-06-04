@@ -276,6 +276,8 @@ Communication between both virtual machines succeeded.
 * Private network communication
 * Connectivity verification
 
+After configuring VNet Peering, connectivity between the virtual networks was established. Effective Routes confirmed routing between address spaces, and communication was validated using Azure networking tools. Windows Firewall settings may prevent ICMP responses unless explicitly enabled.
+
 ---
 
 ## Step 12: Review Effective Routes
