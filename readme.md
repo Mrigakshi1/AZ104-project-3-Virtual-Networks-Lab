@@ -247,7 +247,8 @@ VNet Peering was configured to enable private communication between both virtual
 
 ### Screenshot
 
-![VNet Peering](screenshots/10-vnet-peering.png)
+![VNet Peering](screenshots/10-vnet-peering1.png)
+![VNet Peering](screenshots/10-vnet-peering2.png)
 
 ### Key Learning
 
