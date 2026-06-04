@@ -115,7 +115,8 @@ Network Security Groups were created to control inbound and outbound traffic.
 
 ### Screenshot
 
-![Network Security Groups](screenshots/04-network-security-groups.png)
+![Network Security Groups](screenshots/04-network-security-groups-nsg-app.png)
+![Network Security Groups](screenshots/04-network-security-groups-nsg-db.png)
 
 ### Key Learning
 
