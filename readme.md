@@ -204,7 +204,8 @@ The private IP addresses assigned to both virtual machines were reviewed.
 
 ### Screenshot
 
-![Private IP Addresses](screenshots/08-private-ip-addresses.png)
+![Private IP Addresses](screenshots/08-private-ip-addresses-app.png)
+![Private IP Addresses](screenshots/08-private-ip-addresses-db.png)
 
 ### Key Learning
 
