@@ -139,7 +139,8 @@ The Network Security Groups were associated with their respective subnets.
 
 ### Screenshot
 
-![NSG Association](screenshots/05-nsg-subnet-association.png)
+![NSG Association](screenshots/05-nsg-subnet-association-nsg-app.png)
+![NSG Association](screenshots/05-nsg-subnet-association-nsg-db.png)
 
 ### Key Learning
 
